@@ -7,6 +7,7 @@ Our BA780 team investigated when and where Bluebikes stations run out of bikes o
 Over three test days, the 20 stations we flagged were empty in 36.8% of readings, compared with 6.2% at other stations. We recommended piloting evening bike deliveries in Kendall, MIT, and Longwood and using live station data to update priorities each week.
 
 [View the full team notebook](B10-Running-On-Empty.ipynb)
+
 ![Running on Empty banner](images/banner.png)
 
 Bluebikes riders know the feeling: you walk to a station and every dock is empty, or you finish a ride and there is nowhere to return the bike. Bluebikes already sends vans around all day to move bikes between stations. This project asks a simpler question first: can anyone know ahead of time where the trouble will be? We combined a year of trip records with a month of live station readings that we collected ourselves, and used both to find the stations and hours that deserve the first van visit.
